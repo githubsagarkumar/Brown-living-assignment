@@ -64,4 +64,4 @@ This is a simple Node.js/Express service that provides two endpoints:
 - `package.json` - Project metadata and dependencies
 
 ## License
-MIT
+Made by Sagar
